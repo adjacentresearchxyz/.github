@@ -6,7 +6,7 @@
 
    <h2 class="subtitle">
     <a href="mailto:nate@adjacentresearch.xyz">email</a>,
-    <a href="https://github.com/adjacentresearchxyz">github</a>,
+    <a href="https://adjacentresearch.xyz">website</a>,
     <a href="https://twitter.com/adjacent___">twitter</a>
    </h2>
 
