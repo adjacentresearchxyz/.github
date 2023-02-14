@@ -14,7 +14,7 @@
   </div>
 
   <div>
-   <p>focused on defi, derivatives, and making markets</p>
+   <p> Building, Operating, and Investing in our interests</p>
    
    <div>
     <center><code>ipfs pin add /ipns/adjacentresearch.xyz</code></center>
